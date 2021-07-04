@@ -9,9 +9,9 @@ img.src = './media/flappy-bird-set.png';
 let gamePlaying = false;
 
 const gravity = 0.7;
-const speed = 5.5;
+const speed = 5.8;
 const size = [51, 36];
-const jump = -11;
+const jump = -13;
 const Ctenth = (canvas.width / 10);
 
 
